@@ -1,3 +1,4 @@
+# In this program we searched for an algorithm TSO using Python and I will try to give sloutin by the PSO
 import numpy
 import matplotlib.pyplot as plt
 
